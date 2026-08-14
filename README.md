@@ -3,6 +3,7 @@
 Repositorio personal de estudio orientado al rol de SOC Analyst. Incluye apuntes técnicos, prácticas, procedimientos de triage, análisis de alertas y automatización básica de tareas de seguridad.
 
 ## Objetivos
+
 - Fortalecer conocimientos para un rol de SOC Analyst.
 - Documentar procesos de monitoreo, triage e investigación.
 - Relacionar alertas con MITRE ATT&CK y Cyber Kill Chain.
@@ -24,10 +25,12 @@ Repositorio personal de estudio orientado al rol de SOC Analyst. Incluye apuntes
 | `Referencias` | Fuentes consultadas |
 
 ## Fuente principal de consulta
+
 *SOC Analyst Now!*
 
 > Este repositorio contiene apuntes, análisis, laboratorios y reflexiones personales. No reproduce ni distribuye el contenido íntegro de las obras consultadas.
 
 ## Autor
+
 Wilfrido Pérez Romero  
 Technical Support Specialist | Estudiante de Ciberseguridad | SOC Analyst Path
