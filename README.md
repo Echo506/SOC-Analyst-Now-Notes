@@ -34,3 +34,17 @@ Repositorio personal de estudio orientado al rol de SOC Analyst. Incluye apuntes
 
 Wilfrido Pérez Romero  
 Technical Support Specialist | Estudiante de Ciberseguridad | SOC Analyst Path
+
+## Skills Assessment y plan de brechas
+
+Este repositorio incluye una matriz de autoevaluación inspirada en competencias reales para roles de Threat Detection & Response Analyst, organizada por áreas como analysis, research, development, tools, communication y other skills.
+
+### Documentos relacionados
+- [Skills Assessment Matrix](./07-Carrera-SOC/skills-assessment-matrix.md)
+- [Gap Analysis Roadmap](./07-Carrera-SOC/gap-analysis-roadmap.md)
+
+### Cómo usar esta sección
+- Evaluar habilidades con escala 1–5.
+- Identificar brechas prioritarias.
+- Vincular cada habilidad con laboratorios, apuntes y evidencias del repositorio.
+- Actualizar el progreso conforme se completen prácticas y proyectos.
