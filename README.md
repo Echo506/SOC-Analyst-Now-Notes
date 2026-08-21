@@ -37,8 +37,6 @@ Este repositorio incluye una matriz de autoevaluación inspirada en competencias
 
 ## Repositorios de referencia
 
-## Repositorios de referencia
-
 > Recursos externos usados como referencia para prácticas, detección, threat hunting y construcción de laboratorios.
 > El contenido de este repositorio documenta aprendizaje propio; no replica reglas, reportes o material de terceros sin atribución.
 
