@@ -30,10 +30,6 @@ Repositorio personal de estudio orientado al rol de SOC Analyst. Incluye apuntes
 
 > Este repositorio contiene apuntes, análisis, laboratorios y reflexiones personales. No reproduce ni distribuye el contenido íntegro de las obras consultadas.
 
-## Autor
-
-Wilfrido Pérez Romero  
-Technical Support Specialist | Estudiante de Ciberseguridad | SOC Analyst Path
 
 ## Skills Assessment y plan de brechas
 
@@ -48,3 +44,8 @@ Este repositorio incluye una matriz de autoevaluación inspirada en competencias
 - Identificar brechas prioritarias.
 - Vincular cada habilidad con laboratorios, apuntes y evidencias del repositorio.
 - Actualizar el progreso conforme se completen prácticas y proyectos.
+
+## Autor
+
+Wilfrido Pérez Romero  
+Technical Support Specialist | Estudiante de Ciberseguridad | SOC Analyst Path
