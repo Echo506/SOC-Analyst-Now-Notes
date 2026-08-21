@@ -35,15 +35,38 @@ Repositorio personal de estudio orientado al rol de SOC Analyst. Incluye apuntes
 
 Este repositorio incluye una matriz de autoevaluación inspirada en competencias reales para roles de Threat Detection & Response Analyst, organizada por áreas como analysis, research, development, tools, communication y other skills.
 
-### Documentos relacionados
-- [Skills Assessment Matrix](./07-Carrera-SOC/skills-assessment-matrix.md)
-- [Gap Analysis Roadmap](./07-Carrera-SOC/gap-analysis-roadmap.md)
+## Repositorios de referencia
 
-### Cómo usar esta sección
-- Evaluar habilidades con escala 1–5.
-- Identificar brechas prioritarias.
-- Vincular cada habilidad con laboratorios, apuntes y evidencias del repositorio.
-- Actualizar el progreso conforme se completen prácticas y proyectos.
+## Repositorios de referencia
+
+> Recursos externos usados como referencia para prácticas, detección, threat hunting y construcción de laboratorios.
+> El contenido de este repositorio documenta aprendizaje propio; no replica reglas, reportes o material de terceros sin atribución.
+
+### Threat detection y threat hunting
+- [Awesome Threat Detection and Hunting](https://github.com/0x4d31/awesome-threat-detection)
+- [SigmaHQ Rules](https://github.com/SigmaHQ/sigma)
+- [Microsoft 365 Defender Hunting Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries)
+- [Azure Sentinel Content](https://github.com/Azure/Azure-Sentinel)
+- [Elastic Detection Rules](https://github.com/elastic/detection-rules)
+- [Splunk Security Content](https://github.com/splunk/security_content)
+
+### YARA y Suricata
+- [Awesome YARA](https://github.com/InQuest/awesome-yara)
+- [YARA Official Repository](https://github.com/VirusTotal/yara)
+- [Suricata](https://github.com/OISF/suricata)
+
+### SOC labs y network security monitoring
+- [Security Onion](https://github.com/Security-Onion-Solutions/securityonion)
+- [DetectionLab](https://github.com/clong/DetectionLab)
+- [CyberBlue SOC Lab](https://github.com/cyberblu3s/CyberBlue)
+- [Zeek](https://github.com/zeek/zeek)
+
+### Malware, PCAP y phishing
+- [PCAP-ATTACK](https://github.com/dtag-dev-sec/PCAP-ATTACK)
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+- [theZoo](https://github.com/ytisf/theZoo)
+- [CAPE Sandbox Community](https://github.com/kevoreilly/community)
+- [Phishing Database](https://github.com/phishing-database/phishing-database)
 
 ## Autor
 
