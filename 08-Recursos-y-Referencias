@@ -1,0 +1,30 @@
+# Recursos y referencias para Threat Detection & Response
+
+Esta carpeta centraliza repositorios, documentación y datasets utilizados como
+referencia para el aprendizaje práctico de operaciones SOC, threat hunting,
+análisis de malware, detección de amenazas e investigación de incidentes.
+
+> Los enlaces se usan con fines educativos y de investigación. Los laboratorios,
+> reglas, análisis y reportes publicados en este repositorio son elaborados de
+> forma original y con evidencia sanitizada.
+
+## Áreas cubiertas
+
+- Detección de amenazas y threat hunting
+- SIEM, logs y reglas Sigma
+- PCAP y análisis de red
+- Malware, YARA y persistencia
+- Threat intelligence y OSINT
+- Seguridad cloud e identidad
+- Datasets y laboratorios blue team
+
+## Repositorios clave
+
+| Repositorio | Área | Uso dentro de este portafolio |
+|---|---|---|
+| [Awesome Threat Detection](https://github.com/0x4d31/awesome-threat-detection) | Detección y hunting | Descubrir herramientas, reglas y recursos blue team |
+| [Security Onion](https://github.com/Security-Onion-Solutions/securityonion) | SOC Home Lab | Monitoreo, alertas, PCAP, hunting y casos |
+| [SigmaHQ](https://github.com/SigmaHQ/sigma) | Detección SIEM | Estudiar y crear reglas Sigma |
+| [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) | Threat hunting | Diseñar hipótesis y procedimientos reproducibles |
+| [Security Datasets](https://github.com/OTRF/Security-Datasets) | Datasets | Practicar análisis y validación de detecciones |
+| [Awesome YARA](https://github.com/pedramamini/awesome-yara) | Malware | Investigar y desarrollar reglas YARA |
